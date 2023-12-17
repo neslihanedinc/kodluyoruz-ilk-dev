@@ -1,1 +1,1 @@
-# kodluyoruz-ilk-dev
+# kodluyoruz-ilk-odev
